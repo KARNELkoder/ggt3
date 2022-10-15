@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "06.02.2004"; // Дата рождения
-var fullname = "Возний Олександр Борисович" // ФИО
+var birthdate = "08.12.2003"; // Дата рождения
+var fullname = "Гаврюк Данило Дмитрович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
